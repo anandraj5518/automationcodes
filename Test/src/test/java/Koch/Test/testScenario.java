@@ -12,7 +12,8 @@ import org.testng.annotations.*;
 import org.testng.asserts.SoftAssert;
 
 public class testScenario {
-	public static void main(String[] args) throws Throwable {
+	@Test
+	public  void test() throws Throwable {
 		
 		int count=0;
 		
