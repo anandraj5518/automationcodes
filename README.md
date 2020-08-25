@@ -1,5 +1,5 @@
 # automationcodes
-Clone and Pull the full folder to your local system
+Clone and Pull the full folder(Sample Test) to your local system
 Open eclipse (or Other IDE)
 Click On File-> Open Projects From File System.
 Click on"Directory"
